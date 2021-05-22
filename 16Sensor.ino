@@ -28,6 +28,9 @@
 #define topic14  "home/quang195/sensors14"
 #define topic15  "home/quang195/sensors15"
 
+
+
+
 void Display(unsigned char mode_t);
 void pcf_read();
 void check_location();
